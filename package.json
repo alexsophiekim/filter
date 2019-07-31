@@ -22,10 +22,13 @@
   "homepage": "https://github.com/alexsophiekim/filter#readme",
   "dependencies": {
     "bootstrap": "^4.3.1",
-    "jquery": "^3.4.1"
+    "jquery": "^3.4.1",
+    "jquery-ui-dist": "^1.12.1",
+    "popper.js": "^1.15.0"
   },
   "devDependencies": {
     "grunt": "^1.0.4",
+    "grunt-contrib-cssmin": "^3.0.0",
     "grunt-sass": "^3.0.2"
   }
 }
